@@ -1,0 +1,8 @@
+-r requirements.txt
+
+coverage
+pytest-django
+
+pycodestyle
+pylint
+pylint-django

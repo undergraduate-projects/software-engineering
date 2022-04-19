@@ -1,0 +1,20 @@
+.DS_Store
+node_modules/
+/dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+/test/unit/coverage/
+/test/e2e/reports/
+/test/unit/specs/__snapshots__/snapshot.test.js.snap
+selenium-debug.log
+console.txt
+coverage.txt
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln

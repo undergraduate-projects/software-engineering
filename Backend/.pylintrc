@@ -1,0 +1,14 @@
+[MASTER]
+
+load-plugins=pylint_django
+
+django-settings-module=backend.settings
+
+
+[MESSAGES CONTROL]
+
+disable=no-else-return,
+        too-many-return-statements,
+        unbalanced-tuple-unpacking,
+        duplicate-code,
+        inconsistent-return-statements
